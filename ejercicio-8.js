@@ -1,5 +1,5 @@
 // tabla de multiplicar de numero que el usuario ingrese
-let limite = 10
+let limite = 10;
 let numeroTabla = prompt('Ingresa el numero de la tabla: ');
 numeroTabla = parseInt(numeroTabla);
 

@@ -21,4 +21,4 @@ for (let i = 1; i <= 10; i++){
         numerosPares += valor
     }
 }
-console.log(`Resultados:\nValores positivos: ${valoresPositivos}\nValores negativos: ${valoresNegativos} \nMúltiplos de 15: ${multiplosDe15} \nSuma de números pares: ${numerosPares}`)
+console.log(`Resultados:\nValores positivos: ${valoresPositivos}\nValores negativos: ${valoresNegativos} \nMúltiplos de 15: ${multiplosDe15} \nSuma de números pares: ${numerosPares}`);

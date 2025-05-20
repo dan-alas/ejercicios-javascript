@@ -7,8 +7,8 @@ function verificarEdad (edad) {
     }else if (edad >= 18){
         console.log('Es mayor de edad');
     }else{
-        console.log('Fuera de Rango')
+        console.log('Fuera de Rango');
     }
 }
 
-verificarEdad(18)
+verificarEdad(18);
